@@ -57,3 +57,23 @@ Positive 🙂
 Negative 🙁
 
 Neutral 😐
+
+🛠 Tech Stack
+
+Python
+
+NLP Libraries
+
+NLTK / spaCy
+
+Machine Learning
+
+Scikit-learn
+
+Data Handling
+
+Pandas, NumPy
+
+Visualization (Optional)
+
+Matplotlib, Seaborn
